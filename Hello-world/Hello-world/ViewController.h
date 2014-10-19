@@ -10,10 +10,6 @@
 
 @interface ViewController : UIViewController
 
-@property (nonatomic,assign) const BOOL str;
-@property (nonatomic,retain) const NSArray *ss;
-
-
 
 @end
 
