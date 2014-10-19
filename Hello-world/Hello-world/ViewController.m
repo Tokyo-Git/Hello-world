@@ -32,12 +32,6 @@
     NSLog(@"%@",self.ss);
     self.ss = [NSArray arrayWithObjects:@"hh", nil];
     NSLog(@"%@",self.ss);
-    ///////
-    ////////
-    //////
-    ///////
-    //////
-    ///////
     
     
     
