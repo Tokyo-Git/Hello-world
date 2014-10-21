@@ -32,14 +32,8 @@
     NSLog(@"%@",self.ss);
     self.ss = [NSArray arrayWithObjects:@"hh", nil];
     NSLog(@"%@",self.ss);
-    
-    /////////////
-    //////////
-    /////////
-    
-    //bbb
-    
-    
+    //abcab
+
     
     
     // Do any additional setup after loading the view, typically from a nib.
